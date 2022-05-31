@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahajahmediqbal&label=Profile%20views&color=0e75b6&style=flat" alt="wahajahmediqbal" /> </p>
 
-- 🔭 I’m currently working on [buybestthemes](https://buybestthemes.com/)
+<!-- - 🔭 I’m currently working on [buybestthemes](https://buybestthemes.com/) -->
 
 - 👨‍💻 All of my projects are available at [https://wahaj-ahmed-iqbal.netlify.app/](https://wahaj-ahmed-iqbal.netlify.app/)
 
